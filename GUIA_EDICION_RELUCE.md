@@ -17,7 +17,7 @@ Cómo editamos los anuncios de Reluce para TikTok y Reels. Úsala como punto de 
 5. **Cada frase sobre su toma.** Se reordenan y ajustan las tomas para que lo que se ve calce con lo que se dice.
 6. **Sin audio original.** Solo la voz, normalizada a -14 LUFS.
 7. **No quitar etiquetas de IA** si el video original las trae.
-8. **No reutilizar la voz ni el testimonio de otra creadora.** Si el video trae voz o subtítulos de otra persona, se genera una locución nueva. Los subtítulos incrustados que no se pueden recortar se tapan con una franja oscura 100 % opaca (al 90 % se transparentan).
+8. **No reutilizar la voz ni el testimonio de otra creadora.** Si el video trae voz o subtítulos de otra persona, se genera una locución nueva. Los subtítulos incrustados que no se pueden recortar se borran cuadro por cuadro (letras blancas o celestes con borde negro, rellenadas con lo de alrededor) y los nuestros van justo encima, sin franja de fondo.
 
 ## Estilo de texto
 
@@ -43,4 +43,4 @@ Cómo editamos los anuncios de Reluce para TikTok y Reels. Úsala como punto de 
 - `editados/reluce_cr7_cepillo_1080x1920.mp4`
 - `editados/reluce_video1_cepillo_1080x1920.mp4`
 - `editados/reluce_video2_cepillo_1080x1920.mp4`
-- `editados/reluce_tctewwmkeks4_1080x1920.mp4` (subtítulos antiguos en el centro tapados con una franja oscura opaca `rgb(9,30,38)` entre 1.340 y 1.536 px)
+- `editados/reluce_tctewwmkeks4_1080x1920.mp4` (subtítulos antiguos borrados cuadro por cuadro; los nuestros terminan a 1.530 px para quedar encima de esa zona)
