@@ -45,3 +45,4 @@ Cómo editamos los anuncios de Reluce para TikTok y Reels. Úsala como punto de 
 - `editados/reluce_video2_cepillo_1080x1920.mp4`
 - `editados/reluce_tctewwmkeks4_1080x1920.mp4` (subtítulos antiguos borrados cuadro por cuadro; los nuestros terminan a 1.530 px para quedar encima de esa zona)
 - `editados/reluce_video1_devolver_1080x1920.mp4` (hook "voy a tener que devolver este cepillo"; el pack de 2 sí tiene descuento real frente a 2 unidades sueltas)
+- `editados/reluce_sinsubs3_nocompres_1080x1920.mp4` (hook "No compres este cepillo"; "pack de dos" sobre la toma inicial de los cepillos)
